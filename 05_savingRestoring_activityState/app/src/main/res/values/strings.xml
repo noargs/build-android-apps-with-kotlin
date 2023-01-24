@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Save Restore Activity State</string>
+    <string name="header_txt">Enter your name and email
+        for a discount code at your Favourite Restaurant!</string>
+    <string name="first_name_lbl">First Name:</string>
+    <string name="last_name_lbl">Last Name:</string>
+    <string name="email_lbl">Email:</string>
+    <string name="discount_code_confirmation">Your
+        discount code is below %s. Enjoy!</string>
+    <string name="discount_code_button">GET DISCOUNT</string>
+    <string name="add_text_validation">Please fill in all the form fields</string>
+</resources>
