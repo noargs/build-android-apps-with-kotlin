@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LoginStartActivityForResults">
         <activity
-            android:name=".WelcomeAcitvity"
+            android:name=".WelcomeActivity"
             android:exported="true" />
         <activity
             android:name=".MainActivity"

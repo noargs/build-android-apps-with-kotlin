@@ -19,7 +19,7 @@
         tools:text="Please enter your username and password below to login:"/>
 
     <EditText
-        android:id="@+id/user_name"
+        android:id="@+id/username"
         style="@style/edit_text_login"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -36,7 +36,7 @@
         android:layout_height="wrap_content"
         android:hint="@string/password_label"
         android:inputType="textPassword"
-        app:layout_constraintTop_toBottomOf="@id/user_name"
+        app:layout_constraintTop_toBottomOf="@id/username"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         tools:text="Enter your password:"/>
