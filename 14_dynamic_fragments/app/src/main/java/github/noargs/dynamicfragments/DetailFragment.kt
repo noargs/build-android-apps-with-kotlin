@@ -28,8 +28,12 @@ class DetailFragment : Fragment() {
         return inflater.inflate(R.layout.fragment_detail, container, false)
     }
 
-    // TODO: add all the start signs here
-    fun setStarSignData(starSignId: Int) {
+    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
+        val starSignId = arguments?.getInt(STAR_SIGN_ID, 0) ?: 0
+        setStarSignData(starSignId)
+    }
+
+    private fun setStarSignData(starSignId: Int) {
 
         when (starSignId) {
             R.id.aquarius -> {
@@ -97,6 +101,17 @@ class DetailFragment : Fragment() {
                     .show();
             }
 
+        }
+    }
+
+    companion object {
+        private const val STAR_SIGN_ID = "STAR_SIGN_ID"
+
+        fun newInstance(starSignId: Int) =
+            DetailFragment().apply {
+                arguments = Bundle().apply {
+                    putInt(STAR_SIGN_ID, starSignId)
+                }
         }
     }
 
