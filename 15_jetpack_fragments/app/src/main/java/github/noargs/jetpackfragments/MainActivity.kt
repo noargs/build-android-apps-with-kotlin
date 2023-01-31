@@ -5,9 +5,6 @@ import android.os.Bundle
 
 val STAR_SIGN_ID = "STAR_SIGN_ID"
 
-interface StarSignListener {
-    fun onSelected(starSignId: Int)
-}
 
 class MainActivity : AppCompatActivity(), StarSignListener {
     override fun onCreate(savedInstanceState: Bundle?) {
