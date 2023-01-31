@@ -44,4 +44,6 @@
     <string name="date_scorpio">October 23 - November 21</string>
     <string name="date_sagittarius">November 22 - December 21</string>
     <string name="date_capricorn">December 22 - January 19</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
