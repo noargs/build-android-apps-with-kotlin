@@ -1,3 +1,47 @@
 <resources>
     <string name="app_name">Jetpack Fragments</string>
+
+    <string name="star_signs">Start signs</string>
+    <string name="symbol">Symbol: %s</string>
+    <string name="date_range">Date Range: %s</string>
+
+    <string name="aquarius">Aquarius</string>
+    <string name="pisces">Pisces</string>
+    <string name="aries">Aries</string>
+    <string name="taurus">Taurus</string>
+    <string name="gemini">Gemini</string>
+    <string name="cancer">Cancer</string>
+    <string name="leo">Leo</string>
+    <string name="virgo">Virgo</string>
+    <string name="libra">Libra</string>
+    <string name="scorpio">Scorpio</string>
+    <string name="sagittarius">Sagittarius</string>
+    <string name="capricorn">Capricorn</string>
+    <string name="unknown_star_sign">Unknown Star Sign</string>
+
+    <string name="symbol_aquarius">Water Carrier</string>
+    <string name="symbol_pisces">Fish</string>
+    <string name="symbol_aries">Sheep</string>
+    <string name="symbol_taurus">Bull</string>
+    <string name="symbol_gemini">Twins</string>
+    <string name="symbol_cancer">Crab</string>
+    <string name="symbol_leo">Lion</string>
+    <string name="symbol_virgo">Virgin</string>
+    <string name="symbol_libra">Scales</string>
+    <string name="symbol_scorpio">Scorpion</string>
+    <string name="symbol_sagittarius">Archer</string>
+    <string name="symbol_capricorn">Mountain Goat</string>
+
+    <string name="date_aquarius">January 20 - February 18</string>
+    <string name="date_pisces">February 19 - March 20</string>
+    <string name="date_aries">March 21 - April 19</string>
+    <string name="date_taurus">April 20 - May 20</string>
+    <string name="date_gemini">May 21 - June 20</string>
+    <string name="date_cancer">June 21 - July 22</string>
+    <string name="date_leo">July 23 - August 22</string>
+    <string name="date_virgo">August 23 - September 22</string>
+    <string name="date_libra">September 23 - October 22</string>
+    <string name="date_scorpio">October 23 - November 21</string>
+    <string name="date_sagittarius">November 22 - December 21</string>
+    <string name="date_capricorn">December 22 - January 19</string>
 </resources>
