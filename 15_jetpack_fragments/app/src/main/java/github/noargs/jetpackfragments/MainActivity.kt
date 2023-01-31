@@ -3,6 +3,8 @@ package github.noargs.jetpackfragments
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
+
+
 interface StarSignListener {
     fun onSelected(starSignId: Int)
 }
