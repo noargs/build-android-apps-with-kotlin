@@ -12,7 +12,8 @@
         tools:layout="@layout/fragment_home">
         <action
             android:id="@+id/nav_home_to_content"
-            app:destination="@id/nav_content" />
+            app:destination="@id/nav_content"
+            app:popUpTo="@id/nav_home"/>
     </fragment>
 
     <fragment
