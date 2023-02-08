@@ -3,6 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/archive.xml" value="0.48333333333333334" />
+        <entry key="app/src/main/res/drawable/bin.xml" value="0.48333333333333334" />
+        <entry key="app/src/main/res/drawable/favourites.xml" value="0.48333333333333334" />
+        <entry key="app/src/main/res/drawable/home.xml" value="0.48333333333333334" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.48333333333333334" />
+        <entry key="app/src/main/res/drawable/recent.xml" value="0.48333333333333334" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/app_bar_main.xml" value="0.25" />
         <entry key="app/src/main/res/layout/content_main.xml" value="0.25" />
         <entry key="app/src/main/res/layout/fragment_archive.xml" value="0.25" />
         <entry key="app/src/main/res/layout/fragment_bin.xml" value="0.25" />
@@ -11,6 +19,8 @@
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.25" />
         <entry key="app/src/main/res/layout/fragment_recent.xml" value="0.25" />
         <entry key="app/src/main/res/layout/fragment_settings.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/nav_header_main.xml" value="0.25" />
+        <entry key="app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
       </map>
     </option>
   </component>
