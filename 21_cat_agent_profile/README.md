@@ -32,3 +32,6 @@
         androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
     }
 ```
+
+- `ScalarsConverterFactory` to be recognised, we added following dependency in app module gradle
+`  implementation 'com.squareup.retrofit2:converter-scalars:2.9.0'`
