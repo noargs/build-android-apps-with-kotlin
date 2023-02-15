@@ -35,6 +35,7 @@
 ```
 
 - `ScalarsConverterFactory` to be recognised, we added following dependency in app module gradle
+- this dependency only need if you are working with response as a *string*
 ```groovy
     implementation 'com.squareup.retrofit2:converter-scalars:2.9.0'
 ```  
